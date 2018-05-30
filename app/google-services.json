@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "713636374543",
+    "firebase_url": "https://mystore-34dce.firebaseio.com",
+    "project_id": "mystore-34dce",
+    "storage_bucket": "mystore-34dce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:713636374543:android:19feef3c1096106f",
+        "android_client_info": {
+          "package_name": "sumplus.barros.com.mystore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "713636374543-3js5qh5p0oh7rq4p1u56guq8d4fakup3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sumplus.barros.com.mystore",
+            "certificate_hash": "0f95b9ca8a2468e227ef67661cb12978b2639398"
+          }
+        },
+        {
+          "client_id": "713636374543-sg3crhvo3o0kbco5b6n4jgss1ve9ft28.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAev8wCFnLBme8F9yTcSiY7JKS_55Lgfj0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "713636374543-sg3crhvo3o0kbco5b6n4jgss1ve9ft28.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
